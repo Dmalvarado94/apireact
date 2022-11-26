@@ -1,0 +1,36 @@
+
+.menu ul,.menu li {
+
+list-style-type:none;
+
+display:inline;
+
+margin:0px 10px;
+
+}
+
+ 
+
+.menu {
+
+font-size:15px;
+
+color:#5D7393;
+
+border-bottom:3px #5D7393 solid;
+
+padding:5px 5px 5px 5px;
+
+text-decoration: none;
+
+}
+
+ 
+
+.menu {
+
+border-bottom:5px solid #F9F044;
+
+color:#000;
+
+}
